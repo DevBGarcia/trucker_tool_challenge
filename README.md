@@ -64,7 +64,7 @@ The requirements below are not intended to suggest any particular user interface
 
     1. Upon loading the application, a list of load items should be displayed to the user.
         
-        In the src\Components\Context\index.js file, I used the useEffect() hook to set TWO sets of loadList 
+            In the src\Components\Context\index.js file, I used the useEffect() hook to set TWO sets of loadList 
         arrays (originalLoadListData, currentLoadListData) using the json file provided. The json file is hosted
         in a local directory at src\Components\Data\tt_coding_challenge_data.json. The currentLoadListData 
         is what gets gets updated and loaded on the webpage when sorts or filters are activated. Whenever a 
@@ -84,7 +84,7 @@ The requirements below are not intended to suggest any particular user interface
         i. Number of interim stops (numberOfStops - 2, excluding pickup and
         destination)
 
-        The initial data is deployed on the <LoadCard> component. The parent component <LoadList> takes in the 
+            The initial data is deployed on the <LoadCard> component. The parent component <LoadList> takes in the 
         <currentLoadListData> from Context, and creates every loadcard component via the array map function. 
         Each <LoadCard> component has the load information past down to it via props.  I decided to break down the 
         data into sections based on the json data: <PickupInfo>, <DeliveryInfo>, <TransportationInfo>, <AdditionalInfo>,
@@ -98,7 +98,7 @@ The requirements below are not intended to suggest any particular user interface
     load object in the JSON should be displayed after clicking an individual load
     item. You do not need to display value for key “id”.
 
-        I used the react-bootstrap component <Modal>, to create the <ModalLoadCard> that pops up on the onClick event of 
+            I used the react-bootstrap component <Modal>, to create the <ModalLoadCard> that pops up on the onClick event of 
         a <LoadList> component. I passed the Key ID back up to the context API which handles the state and data that 
         the ModalLoadCard will display. The ModalLoadCard is essentially an extension of the <LoadCard> component, just with 
         some extra data and buttons to display the rest of the load information.  
@@ -107,7 +107,7 @@ The requirements below are not intended to suggest any particular user interface
     to be able to sort the loads by pickup date and time (sort by the combined date
     and time - not separate sorts), or by weight.
 
-        To sort the data by either Pickup Date or Weight, I utilized a radio style toggle button that both sets a boolean value
+            To sort the data by either Pickup Date or Weight, I utilized a radio style toggle button that both sets a boolean value
         to it's respective sort type and executes a sort function using the Array.Sort function. I kept track of the state of which
         sort was last applied, so we can re-sort whenever a filter is applied to the list. 
 
@@ -117,7 +117,7 @@ The requirements below are not intended to suggest any particular user interface
     list of loads is filtered out, you may want to display some message on the
     screen to the user.
 
-        For the truck filter options, I used a drop-down list and submit button to alter the active list of data, based on 
+            For the truck filter options, I used a drop-down list and submit button to alter the active list of data, based on 
         the original loadList that the application was given. The Array.filter function was valuable in filtering out the list
         of load data, but I wanted to make sure to use the original data set for each filter to avoid erasing the currentLoadListData.
         Upon a filter activation, I checked for the last sort functions that were applied and re-sort the data to match the state.
@@ -126,6 +126,6 @@ The requirements below are not intended to suggest any particular user interface
 
     6. The sort and filter options should be accessible from the load list view
 
-        These components are placed at the top of the <LoadList> component, within ToolBar <ToolBar> 
+            These components are placed at the top of the <LoadList> component, within ToolBar <ToolBar> 
 
 -------------------------------------------------------------------------------------------------- 
