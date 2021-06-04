@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+--------------------------------------------------------------------------------------------------
+High up overview of React Component Tree
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    <Provider> 
+        <App>
+            <Header/>
+            <ToolBar>
+                <SortTools/>
+                <FilterTools/>
+            </ToolBar>
+            <LoadList>
+                ...
+                <LoadCard(s)>
+                    <PickupInfo/>
+                    <DeliveryInfo/>
+                    <TransportationInfo/>  
+                </LoadCard(s)>
+                ... 
+                {OR}
+                <NoCardData/>
+            </LoadList>
+            <ModalLoadCard>
+                <Modal>
+                    <PickupInfo/>
+                    <DeliveryInfo/>
+                    <TransportationInfo/>
+                    <AdditionalInfo/>
+                    <ContactInfo/>
+                    <CommentInfo/>
+                </Modal>
+            </ModalLoadCard>
+        </App>
+    </Provider>
 
-## Available Scripts
+--------------------------------------------------------------------------------------------------
+Environment
 
-In the project directory, you can run:
+    I used the Context API along with Hooks to manage state globally from a single file. 
+    In most cases, functions and state variables are defined and referenced from the 
+    Context API file (.\src\Components\Context\index.js) Via hooks. It wraps the entire application
+    with the <Provider> tags.  
 
-### `npm start`
+    I relied heavily on vanilla bootstrap 5 for styling and dynamic structuring. The modal pop-up 
+    card is the only location I used React-bootstrap :( I should've started using react-bootstrap, material-ui,
+    or another react-based styling library from  the beginning to make the JSX a bit more traceable. 
+    The React Component Tree above is a high-up view of the components but there are column/row container 
+    structures nested between. The primary reason behind using bootstrap was to ensure the layout would 
+    display well across multiple media sizes and platforms.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    Visual Studio code was the text editor of choice, and I used create-react-app to start off.
+--------------------------------------------------------------------------------------------------   
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Trucker Tools Coding Challenge
 
-### `npm test`
+The Problem:
+Our users are drivers that are trying to sift through a long list of loads to find a great
+match. We want to make that process as smooth and easy as possible. Given a list of
+loads in JSON format, develop a simple application that displays an easily digestible
+list of loads. The application should provide tools to make the information more
+consumable; such as sorts and filters.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Requirements:
+The requirements below are not intended to suggest any particular user interface.
 
-### `npm run build`
+    1. Upon loading the application, a list of load items should be displayed to the user.
+        
+        In the src\Components\Context\index.js file, I used the useEffect() hook to set TWO sets of loadList 
+        arrays (originalLoadListData, currentLoadListData) using the json file provided. The json file is hosted
+        in a local directory at src\Components\Data\tt_coding_challenge_data.json. The currentLoadListData 
+        is what gets gets updated and loaded on the webpage when sorts or filters are activated. Whenever a 
+        filter is applied, the originalLoadListData is referenced in order to re-render the page to avoid 
+        over-writing the origianl list. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    2. The initial display for each load item should only include the most important
+    information listed below.
+        a. Origin city
+        b. Origin state
+        c. Pickup date and time
+        d. Destination city
+        e. Destination state
+        f. Delivery date and time
+        g. Truck type
+        h. Weight - unit is “lbs”
+        i. Number of interim stops (numberOfStops - 2, excluding pickup and
+        destination)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+        The initial data is deployed on the <LoadCard> component. The parent component <LoadList> takes in the 
+        <currentLoadListData> from Context, and creates every loadcard component via the array map function. 
+        Each <LoadCard> component has the load information past down to it via props.  I decided to break down the 
+        data into sections based on the json data: <PickupInfo>, <DeliveryInfo>, <TransportationInfo>, <AdditionalInfo>,
+        <ContactInfo>, & <CommentInfo>. The <LoadCard> component only consists of the first three: Pickup, Delivery,
+        and Transportation; which encapsulates the a. to i. data above. I figured I would be able to re-use these components
+        in the popup card for step 3.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    3. Each load item in the list should be clickable - once clicked, the user should be
+    able to view additional details about the load and be presented with a back
+    button to return to the original list. All additional information found on each
+    load object in the JSON should be displayed after clicking an individual load
+    item. You do not need to display value for key “id”.
 
-### `npm run eject`
+        I used the react-bootstrap component <Modal>, to create the <ModalLoadCard> that pops up on the onClick event of 
+        a <LoadList> component. I passed the Key ID back up to the context API which handles the state and data that 
+        the ModalLoadCard will display. The ModalLoadCard is essentially an extension of the <LoadCard> component, just with 
+        some extra data and buttons to display the rest of the load information.  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    4. Please provide some sort options for the list of loads. We would like the user
+    to be able to sort the loads by pickup date and time (sort by the combined date
+    and time - not separate sorts), or by weight.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+        To sort the data by either Pickup Date or Weight, I utilized a radio style toggle button that both sets a boolean value
+        to it's respective sort type and executes a sort function using the Array.Sort function. I kept track of the state of which
+        sort was last applied, so we can re-sort whenever a filter is applied to the list. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    5. Please provide a filter option for the list of loads. The user should be able to
+    filter the list of loads by truck type. You may have an “Undefined” category if
+    truck type does not have a valid value on the load object. Note that if the entire
+    list of loads is filtered out, you may want to display some message on the
+    screen to the user.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+        For the truck filter options, I used a drop-down list and submit button to alter the active list of data, based on 
+        the original loadList that the application was given. The Array.filter function was valuable in filtering out the list
+        of load data, but I wanted to make sure to use the original data set for each filter to avoid erasing the currentLoadListData.
+        Upon a filter activation, I checked for the last sort functions that were applied and re-sort the data to match the state.
+                There is a dropdown selection of 'Undefined', this filters loads with no truck type defined. Since there are no loads with undefined truck types, this filters out all loads and displays a special component showing 
+        NO load data is rendered.
 
-## Learn More
+    6. The sort and filter options should be accessible from the load list view
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+        These components are placed at the top of the <LoadList> component, within ToolBar <ToolBar> 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-------------------------------------------------------------------------------------------------- 
