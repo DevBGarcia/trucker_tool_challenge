@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trucker_tool_challenge/static/css/main.fe5ecc47.chunk.css",
+    "main.js": "/trucker_tool_challenge/static/js/main.33e155fa.chunk.js",
+    "main.js.map": "/trucker_tool_challenge/static/js/main.33e155fa.chunk.js.map",
+    "runtime-main.js": "/trucker_tool_challenge/static/js/runtime-main.c7cb0518.js",
+    "runtime-main.js.map": "/trucker_tool_challenge/static/js/runtime-main.c7cb0518.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/trucker_tool_challenge/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.b32e3114.chunk.js": "/trucker_tool_challenge/static/js/2.b32e3114.chunk.js",
+    "static/js/2.b32e3114.chunk.js.map": "/trucker_tool_challenge/static/js/2.b32e3114.chunk.js.map",
+    "static/js/3.2432e3a0.chunk.js": "/trucker_tool_challenge/static/js/3.2432e3a0.chunk.js",
+    "static/js/3.2432e3a0.chunk.js.map": "/trucker_tool_challenge/static/js/3.2432e3a0.chunk.js.map",
+    "index.html": "/trucker_tool_challenge/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/trucker_tool_challenge/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.fe5ecc47.chunk.css.map": "/trucker_tool_challenge/static/css/main.fe5ecc47.chunk.css.map",
+    "static/js/2.b32e3114.chunk.js.LICENSE.txt": "/trucker_tool_challenge/static/js/2.b32e3114.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7cb0518.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.b32e3114.chunk.js",
+    "static/css/main.fe5ecc47.chunk.css",
+    "static/js/main.33e155fa.chunk.js"
+  ]
+}
