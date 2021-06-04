@@ -1,0 +1,1956 @@
+{
+    "loadList": [
+        {
+            "id": 12533798,
+            "loadId": 12533798,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "11:00 AM",
+                "dateTime": "05/24/2021 11:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/25/2021 10:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "60",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": 4,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12693390,
+            "loadId": 12693390,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "09:30 AM",
+                "dateTime": "05/24/2021 09:30 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MOXEE CITY",
+                "state": "WA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": "John Pollak",
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1607",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12500405,
+            "loadId": 12500405,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MOXEE CITY",
+                "state": "WA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "43000",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1607",
+            "reloads": 2,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12693385,
+            "loadId": 12693385,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "09:30 AM",
+                "dateTime": "05/24/2021 09:30 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MOXEE CITY",
+                "state": "WA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": "Jane Pollak",
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1607",
+            "reloads": 10,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12533427,
+            "loadId": 12533427,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "10:30 AM",
+                "dateTime": "05/25/2021 10:30 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "06:00 AM",
+                "dateTime": "05/26/2021 06:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "84",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12533430,
+            "loadId": 12533430,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "11:15 AM",
+                "dateTime": "05/25/2021 11:15 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "",
+            "distance": 90,
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": 14,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12736362,
+            "loadId": 12736362,
+            "origin": {
+                "city": "GLENROCK",
+                "state": "WY"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/25/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/27/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/27/2021 07:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "GOODYEAR",
+                "state": "AZ"
+            },
+            "length": "",
+            "quantity": "80",
+            "weight": "40000",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "6239355555",
+                "email": "dwaynem@englandagents.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 669,
+            "targetPay": null,
+            "reloads": 3,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12533432,
+            "loadId": 12533432,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/26/2021",
+                "time": "11:15 AM",
+                "dateTime": "05/26/2021 11:15 AM"
+            },
+            "delivery": {
+                "date": "05/27/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/27/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "",
+            "distance": 130,
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": 4,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12709773,
+            "loadId": 12709773,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/28/2021",
+                "time": "12:00 AM",
+                "dateTime": "05/28/2021 12:00 AM"
+            },
+            "delivery": {
+                "date": "06/01/2021",
+                "time": "12:00 AM",
+                "dateTime": "06/01/2021 12:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12358690,
+            "loadId": 12358690,
+            "origin": {
+                "city": "PERRYVILLE",
+                "state": "MO"
+            },
+            "pickup": {
+                "date": "05/26/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/26/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/28/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/28/2021 07:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WRIGHT",
+                "state": "WY"
+            },
+            "length": "",
+            "quantity": "400",
+            "weight": "30000",
+            "truckTypes": "Van or Flats w/Tarps",
+            "contact": {
+                "name": null,
+                "phone": "8664767018",
+                "email": "kellis@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 325,
+            "targetPay": "3800",
+            "reloads": 2,
+            "comment": "can be van or flatbed. Flatbed must be tarpedIf van, driver assist to move pallets to tail. pallet jack provided.",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12657578,
+            "loadId": 12657578,
+            "origin": {
+                "city": "HUTCHINSON",
+                "state": "KS"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "07:30 AM",
+                "dateTime": "05/25/2021 07:30 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MANNING",
+                "state": "IA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "46593",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 138,
+            "targetPay": "907",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "40",
+            "temp_max": "60"
+        },
+        {
+            "id": 12704358,
+            "loadId": 12704358,
+            "origin": {
+                "city": "AMHERST JUNCTI",
+                "state": "WI"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "11:00 AM",
+                "dateTime": "05/24/2021 11:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:01 AM",
+                "dateTime": "05/25/2021 12:01 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MARSHALL",
+                "state": "MN"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "45000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8663519240",
+                "email": "sturk@crengland.com,jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 610,
+            "targetPay": "1244",
+            "reloads": 9,
+            "comment": "",
+            "temp_min": "15",
+            "temp_max": "30"
+        },
+        {
+            "id": 12352021,
+            "loadId": 12352021,
+            "origin": {
+                "city": "ALBUQUERQUE",
+                "state": "NM"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "01:00 PM",
+                "dateTime": "05/24/2021 01:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:01 AM",
+                "dateTime": "05/25/2021 12:01 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "AMMON",
+                "state": "ID"
+            },
+            "length": "",
+            "quantity": "6",
+            "weight": "45000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": "Shannon Turk",
+                "phone": "8663519240",
+                "email": "sturk@crengland.com,jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 630,
+            "targetPay": "2483",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12757186,
+            "loadId": 12757186,
+            "origin": {
+                "city": "HAWKINSVILLE",
+                "state": "GA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "COMMERCE",
+                "state": "GA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "46000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 770,
+            "targetPay": null,
+            "reloads": 10,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12757583,
+            "loadId": 12757583,
+            "origin": {
+                "city": "HAWKINSVILLE",
+                "state": "GA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "DULUTH",
+                "state": "GA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "46000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": "Clark Piet",
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 770,
+            "targetPay": null,
+            "reloads": null,
+            "comment": "",
+            "temp_min": "30",
+            "temp_max": "48"
+        },
+        {
+            "id": 12753176,
+            "loadId": 12753176,
+            "origin": {
+                "city": "HAWKINSVILLE",
+                "state": "GA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "ACWORTH",
+                "state": "GA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "46000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 770,
+            "targetPay": "700",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12717141,
+            "loadId": 12717141,
+            "origin": {
+                "city": "CLEVELAND",
+                "state": "OH"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/25/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "OWINGSVILLE",
+                "state": "KY"
+            },
+            "length": "48",
+            "quantity": "",
+            "weight": "40000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 808,
+            "targetPay": "1007",
+            "reloads": null,
+            "comment": "Please upload all receipts to the Atlas portal.",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12678510,
+            "loadId": 12678510,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "10:30 AM",
+                "dateTime": "05/24/2021 10:30 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/25/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "CARBONDALE",
+                "state": "CO"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1007",
+            "reloads": 8,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12631421,
+            "loadId": 12631421,
+            "origin": {
+                "city": "ONTARIO",
+                "state": "CA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "06:00 AM",
+                "dateTime": "05/24/2021 06:00 AM"
+            },
+            "delivery": {
+                "date": "05/24/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/24/2021 10:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "BISHOP",
+                "state": "CA"
+            },
+            "length": "",
+            "quantity": "8",
+            "weight": "46000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1248,
+            "targetPay": "1300",
+            "reloads": 20,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12476133,
+            "loadId": 12476133,
+            "origin": {
+                "city": "SOUTHINGTON",
+                "state": "CT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "09:30 AM",
+                "dateTime": "05/24/2021 09:30 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:01 AM",
+                "dateTime": "05/25/2021 12:01 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "LIVERPOOL",
+                "state": "NY"
+            },
+            "length": "",
+            "quantity": "70",
+            "weight": "45000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8663519240",
+                "email": "sturk@crengland.com,jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1256,
+            "targetPay": "1221",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12760229,
+            "loadId": 12760229,
+            "origin": {
+                "city": "FOUNTAIN",
+                "state": "CO"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/25/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/25/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "SALT LAKE CITY",
+                "state": "UT"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "40000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8664767018",
+                "email": "kellis@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 502,
+            "targetPay": "1600",
+            "reloads": null,
+            "comment": "801-656-6012",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12752145,
+            "loadId": 12752145,
+            "origin": {
+                "city": "FOUNTAIN",
+                "state": "CO"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/25/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/29/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/29/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "DURHAM",
+                "state": "NC"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "40000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": "Kyle Ellis",
+                "phone": "8664767018",
+                "email": "kellis@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 502,
+            "targetPay": "2800",
+            "reloads": 5,
+            "comment": "801-656-6012",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12596346,
+            "loadId": 12596346,
+            "origin": {
+                "city": "AMHERST JUNCTI",
+                "state": "WI"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "12:00 PM",
+                "dateTime": "05/25/2021 12:00 PM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "12:01 AM",
+                "dateTime": "05/26/2021 12:01 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MANKATO",
+                "state": "MN"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "45000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8663519240",
+                "email": "sturk@crengland.com,jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 610,
+            "targetPay": "1005",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "10",
+            "temp_max": "30"
+        },
+        {
+            "id": 12679970,
+            "loadId": 12679970,
+            "origin": {
+                "city": "BRAWLEY",
+                "state": "CA"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/25/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/25/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "CHANDLER",
+                "state": "AZ"
+            },
+            "length": "72",
+            "quantity": "",
+            "weight": "25000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": "Julia Green",
+                "phone": "3852756673",
+                "email": "jgreen@englandagents.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1155,
+            "targetPay": null,
+            "reloads": null,
+            "comment": "16' of freight may need to distribute to 24' due to weight.",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12766990,
+            "loadId": 12766990,
+            "origin": {
+                "city": "LAKEWOOD",
+                "state": "WA"
+            },
+            "pickup": {
+                "date": "05/26/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/26/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/26/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "YAKIMA",
+                "state": "WA"
+            },
+            "length": "60",
+            "quantity": "30",
+            "weight": "40000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8704164180",
+                "email": "lzimmerman@englandagents.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1523,
+            "targetPay": null,
+            "reloads": 4,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12752410,
+            "loadId": 12752410,
+            "origin": {
+                "city": "FOUNTAIN",
+                "state": "CO"
+            },
+            "pickup": {
+                "date": "05/27/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/27/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/29/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/29/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "HOUSTON",
+                "state": "TX"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "40000",
+            "truckTypes": "Flatbed or Step Deck",
+            "contact": {
+                "name": null,
+                "phone": "8664767018",
+                "email": "kellis@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 502,
+            "targetPay": "2100",
+            "reloads": null,
+            "comment": "801-656-6012",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12705830,
+            "loadId": 12705830,
+            "origin": {
+                "city": "PERRYVILLE",
+                "state": "MO"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/26/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "SNYDER",
+                "state": "TX"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "48000",
+            "truckTypes": "Flatbed w/Tarps",
+            "contact": {
+                "name": null,
+                "phone": "8664767018",
+                "email": "kellis@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 325,
+            "targetPay": "3800",
+            "reloads": 26,
+            "comment": "4' tarps are goodupto 26 pallets",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12718566,
+            "loadId": 12718566,
+            "origin": {
+                "city": "KANSAS CITY",
+                "state": "KS"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "01:00 PM",
+                "dateTime": "05/24/2021 01:00 PM"
+            },
+            "delivery": {
+                "date": "05/27/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/27/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "EUGENE",
+                "state": "OR"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "42000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 152,
+            "targetPay": "4000",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "40",
+            "temp_max": "55"
+        },
+        {
+            "id": 12658066,
+            "loadId": 12658066,
+            "origin": {
+                "city": "STUTTGART",
+                "state": "AR"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "08:15 AM",
+                "dateTime": "05/26/2021 08:15 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WEST PALM BEAC",
+                "state": "FL"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "43524",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": "Karen Koplin",
+                "phone": "8665490563",
+                "email": "kkoplin@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 294,
+            "targetPay": null,
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12421150,
+            "loadId": 12421150,
+            "origin": {
+                "city": "STUTTGART",
+                "state": "AR"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "06:30 AM",
+                "dateTime": "05/26/2021 06:30 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WEST PALM BEAC",
+                "state": "FL"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44029",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8665490563",
+                "email": "kkoplin@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 294,
+            "targetPay": null,
+            "reloads": 24,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12699819,
+            "loadId": 12699819,
+            "origin": {
+                "city": "BURLESON",
+                "state": "TX"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "03:00 PM",
+                "dateTime": "05/24/2021 03:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/25/2021 07:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "TEMPLE",
+                "state": "TX"
+            },
+            "length": "98",
+            "quantity": "",
+            "weight": "7000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8664767018",
+                "email": "kellis@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 327,
+            "targetPay": null,
+            "reloads": 21,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12647366,
+            "loadId": 12647366,
+            "origin": {
+                "city": "WALFORD",
+                "state": "IA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "02:30 PM",
+                "dateTime": "05/24/2021 02:30 PM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "12:00 AM",
+                "dateTime": "05/26/2021 12:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "HARTWELL",
+                "state": "GA"
+            },
+            "length": "144",
+            "quantity": "",
+            "weight": "43500",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 390,
+            "targetPay": "2007",
+            "reloads": 5,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12628111,
+            "loadId": 12628111,
+            "origin": {
+                "city": "CEDAR RAPIDS",
+                "state": "IA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/25/2021 07:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "GARY",
+                "state": "IN"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "41000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 398,
+            "targetPay": "1000",
+            "reloads": 3,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12481163,
+            "loadId": 12481163,
+            "origin": {
+                "city": "BOWLING GREEN",
+                "state": "KY"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/24/2021 10:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "05:15 AM",
+                "dateTime": "05/26/2021 05:15 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WEST PALM BEAC",
+                "state": "FL"
+            },
+            "length": "",
+            "quantity": "37",
+            "weight": "41062",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8665490563",
+                "email": "kkoplin@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 511,
+            "targetPay": null,
+            "reloads": 9,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12481167,
+            "loadId": 12481167,
+            "origin": {
+                "city": "BOWLING GREEN",
+                "state": "KY"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/24/2021 10:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "05:15 AM",
+                "dateTime": "05/26/2021 05:15 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WEST PALM BEAC",
+                "state": "FL"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "41719",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8665490563",
+                "email": "kkoplin@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 511,
+            "targetPay": null,
+            "reloads": 7,
+            "comment": "",
+            "temp_min": "5",
+            "temp_max": "25"
+        },
+        {
+            "id": 12302821,
+            "loadId": 12302821,
+            "origin": {
+                "city": "COLD SPRING",
+                "state": "MN"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "04:00 PM",
+                "dateTime": "05/24/2021 04:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:00 PM",
+                "dateTime": "05/25/2021 12:00 PM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "INDIANAPOLIS",
+                "state": "IN"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44800",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 582,
+            "targetPay": null,
+            "reloads": 17,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12691781,
+            "loadId": 12691781,
+            "origin": {
+                "city": "COLD SPRING",
+                "state": "MN"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "04:00 PM",
+                "dateTime": "05/24/2021 04:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:00 PM",
+                "dateTime": "05/25/2021 12:00 PM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "INDIANAPOLIS",
+                "state": "IN"
+            },
+            "length": "144",
+            "quantity": "10",
+            "weight": "44800",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 582,
+            "targetPay": null,
+            "reloads": 13,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12671390,
+            "loadId": 12671390,
+            "origin": {
+                "city": "COLD SPRING",
+                "state": "MN"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "03:00 PM",
+                "dateTime": "05/24/2021 03:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:00 PM",
+                "dateTime": "05/25/2021 12:00 PM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "INDIANAPOLIS",
+                "state": "IN"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44800",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 582,
+            "targetPay": null,
+            "reloads": 19,
+            "comment": "",
+            "temp_min": "4",
+            "temp_max": "20"
+        },
+        {
+            "id": 12358335,
+            "loadId": 12358335,
+            "origin": {
+                "city": "COLD SPRING",
+                "state": "MN"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "05:00 PM",
+                "dateTime": "05/24/2021 05:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/25/2021 10:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "INDIANAPOLIS",
+                "state": "IN"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "45000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 582,
+            "targetPay": null,
+            "reloads": 2,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12726633,
+            "loadId": 12726633,
+            "origin": {
+                "city": "COLD SPRING",
+                "state": "MN"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "04:00 AM",
+                "dateTime": "05/24/2021 04:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/26/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MEMPHIS",
+                "state": "TN"
+            },
+            "length": "120",
+            "quantity": "",
+            "weight": "45100",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 582,
+            "targetPay": null,
+            "reloads": 12,
+            "comment": "",
+            "temp_min": "5",
+            "temp_max": "30"
+        },
+        {
+            "id": 12692969,
+            "loadId": 12692969,
+            "origin": {
+                "city": "HERSEY",
+                "state": "MI"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/26/2021 10:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "BLOOMSBURG",
+                "state": "PA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "45000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 713,
+            "targetPay": null,
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12704356,
+            "loadId": 12704356,
+            "origin": {
+                "city": "ORRVILLE",
+                "state": "OH"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/24/2021 09:00 AM"
+            },
+            "delivery": {
+                "date": "05/27/2021",
+                "time": "03:45 PM",
+                "dateTime": "05/27/2021 03:45 PM"
+            },
+            "numberOfStops": 3,
+            "destination": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "11105",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": "Stevan Turk",
+                "phone": "8663519240",
+                "email": "sturk@crengland.com,jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 793,
+            "targetPay": "3363",
+            "reloads": 9,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12679433,
+            "loadId": 12679433,
+            "origin": {
+                "city": "SAINT CLAIR",
+                "state": "MI"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/24/2021 07:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "NEW CENTURY",
+                "state": "KS"
+            },
+            "length": "",
+            "quantity": "42",
+            "weight": "43000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 804,
+            "targetPay": "1600",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "35",
+            "temp_max": "40"
+        },
+        {
+            "id": 12727596,
+            "loadId": 12727596,
+            "origin": {
+                "city": "CLEVELAND",
+                "state": "OH"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "06:00 PM",
+                "dateTime": "05/24/2021 06:00 PM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "05:00 AM",
+                "dateTime": "05/26/2021 05:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "GLOUCESTER",
+                "state": "MA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "43228",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8004530064",
+                "email": "cjensen@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 815,
+            "targetPay": null,
+            "reloads": 8,
+            "comment": "FOOD GRADE Trailer!",
+            "temp_min": "20",
+            "temp_max": "30"
+        },
+        {
+            "id": 12740577,
+            "loadId": 12740577,
+            "origin": {
+                "city": "OGDEN",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "05:00 PM",
+                "dateTime": "05/24/2021 05:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "07:00 AM",
+                "dateTime": "05/25/2021 07:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "GRESHAM",
+                "state": "OR"
+            },
+            "length": "",
+            "quantity": "90",
+            "weight": "42500",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 915,
+            "targetPay": "1607",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12702567,
+            "loadId": 12702567,
+            "origin": {
+                "city": "CASA GRANDE",
+                "state": "AZ"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "12:00 AM",
+                "dateTime": "05/24/2021 12:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "12:00 AM",
+                "dateTime": "05/26/2021 12:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "OGDEN",
+                "state": "UT"
+            },
+            "length": "120",
+            "quantity": "",
+            "weight": "43000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 958,
+            "targetPay": "2007",
+            "reloads": 7,
+            "comment": "",
+            "temp_min": "40",
+            "temp_max": "50"
+        },
+        {
+            "id": 12663456,
+            "loadId": 12663456,
+            "origin": {
+                "city": "GOODYEAR",
+                "state": "AZ"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "06:30 AM",
+                "dateTime": "05/24/2021 06:30 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "12:00 AM",
+                "dateTime": "05/25/2021 12:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "RIVERTON",
+                "state": "UT"
+            },
+            "length": "72",
+            "quantity": "",
+            "weight": "26000",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": "Charlotte Jensen",
+                "phone": "8004530064",
+                "email": "cjensen@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 971,
+            "targetPay": null,
+            "reloads": 2,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12687968,
+            "loadId": 12687968,
+            "origin": {
+                "city": "BURLEY",
+                "state": "ID"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/27/2021",
+                "time": "06:00 AM",
+                "dateTime": "05/27/2021 06:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "SPEARFISH",
+                "state": "SD"
+            },
+            "length": "60",
+            "quantity": "60",
+            "weight": "44092",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1028,
+            "targetPay": null,
+            "reloads": 13,
+            "comment": "1x1",
+            "temp_min": "25",
+            "temp_max": "30"
+        },
+        {
+            "id": 12688165,
+            "loadId": 12688165,
+            "origin": {
+                "city": "BURLEY",
+                "state": "ID"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/27/2021",
+                "time": "06:00 AM",
+                "dateTime": "05/27/2021 06:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "SPEARFISH",
+                "state": "SD"
+            },
+            "length": "",
+            "quantity": "80",
+            "weight": "44092",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": null,
+                "phone": "8008430937",
+                "email": "cpiet@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1028,
+            "targetPay": null,
+            "reloads": 10,
+            "comment": "1x1",
+            "temp_min": "25",
+            "temp_max": "30"
+        },
+        {
+            "id": 12590872,
+            "loadId": 12590872,
+            "origin": {
+                "city": "WEST SPRINGFIE",
+                "state": "MA"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "02:00 PM",
+                "dateTime": "05/24/2021 02:00 PM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/25/2021 08:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "SWANTON",
+                "state": "VT"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "43500",
+            "truckTypes": "Van or Reefer",
+            "contact": {
+                "name": "Cameron Brower",
+                "phone": "8324971140",
+                "email": "cbrower@sorentransport.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 1271,
+            "targetPay": null,
+            "reloads": 3,
+            "comment": "",
+            "temp_min": "25",
+            "temp_max": "30"
+        }
+    ]
+}

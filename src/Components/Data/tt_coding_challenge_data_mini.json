@@ -1,0 +1,199 @@
+{
+    "loadList": [
+        {
+            "id": 12533798,
+            "loadId": 12533798,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "11:00 AM",
+                "dateTime": "05/24/2021 11:00 AM"
+            },
+            "delivery": {
+                "date": "05/25/2021",
+                "time": "10:00 AM",
+                "dateTime": "05/25/2021 10:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "60",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": 4,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12693390,
+            "loadId": 12693390,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "09:30 AM",
+                "dateTime": "05/24/2021 09:30 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MOXEE CITY",
+                "state": "WA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": "John Pollak",
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1607",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12500405,
+            "loadId": 12500405,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "08:00 AM",
+                "dateTime": "05/24/2021 08:00 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MOXEE CITY",
+                "state": "WA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "43000",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1607",
+            "reloads": 2,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12693385,
+            "loadId": 12693385,
+            "origin": {
+                "city": "GRANTSVILLE",
+                "state": "UT"
+            },
+            "pickup": {
+                "date": "05/24/2021",
+                "time": "09:30 AM",
+                "dateTime": "05/24/2021 09:30 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "09:00 AM",
+                "dateTime": "05/26/2021 09:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "MOXEE CITY",
+                "state": "WA"
+            },
+            "length": "",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": "Jane Pollak",
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 932,
+            "targetPay": "1607",
+            "reloads": 10,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        },
+        {
+            "id": 12533427,
+            "loadId": 12533427,
+            "origin": {
+                "city": "FREEDOM",
+                "state": "OK"
+            },
+            "pickup": {
+                "date": "05/25/2021",
+                "time": "10:30 AM",
+                "dateTime": "05/25/2021 10:30 AM"
+            },
+            "delivery": {
+                "date": "05/26/2021",
+                "time": "06:00 AM",
+                "dateTime": "05/26/2021 06:00 AM"
+            },
+            "numberOfStops": 2,
+            "destination": {
+                "city": "WILMER",
+                "state": "TX"
+            },
+            "length": "84",
+            "quantity": "",
+            "weight": "44500",
+            "truckTypes": "Van or Flatbed",
+            "contact": {
+                "name": null,
+                "phone": "8667717013",
+                "email": "jpollak@englandlogistics.com"
+            },
+            "companyName": "England Logistics, Inc.",
+            "deadHead": 189,
+            "targetPay": "900",
+            "reloads": null,
+            "comment": "",
+            "temp_min": "",
+            "temp_max": ""
+        }
+    ]
+}
